@@ -1,0 +1,34 @@
+[
+    {
+        "name": "wecodepixels/wordpress-plugin",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@bitbucket.org:wecodepixels/wordpress-plugin.git",
+            "reference": "23f2e11d81d1b0835aafa5ee43644506bda2bd7d"
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2018-08-10T13:50:59+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "WeCodePixels",
+                "email": "contact@wecodepixels.com",
+                "homepage": "https://wecodepixels.com"
+            }
+        ],
+        "description": "Framework for WordPress plugins.",
+        "homepage": "https://wecodepixels.com",
+        "keywords": [
+            "plugin",
+            "wordpress"
+        ]
+    }
+]
